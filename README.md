@@ -1,6 +1,6 @@
-<center>
+<div align="center">
   <img src="./assets/logo.png" alt="logo">
-</center>
+</div>
 
 # 项目简介
 该项目是一个H5格式的点评网站，基于SpringBoot、MyBatis-Plus、MySQL和Redis搭建而成，用于给各大商户平台
